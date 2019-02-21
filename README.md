@@ -1,0 +1,1 @@
+# tikaserver_no-ocr
